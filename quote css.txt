@@ -1,0 +1,28 @@
+.quote
+{
+	height:330px;
+	width:500px;
+	background-color: #990000;
+	color:white;
+	position:absolute;
+	left:15%;
+	top:15%;
+	background:rgba(0,0,0,0.7);
+	font-size:40px;
+	text-align: center;
+	border-radius:30px;
+}
+.logo
+{
+	border-radius:100px;
+	position:absolute;
+	left:5%;
+	top:50%;
+} 
+
+<div class="quote">
+		<p style="background-color: #990000; height:330px;
+	width:500px;"><br>" The measure of life is not its duration,but its donation "<br>
+		Welcome to Donation Community </p>
+		<img src="ocslogo.jpeg" class="logo"> 
+	</div>
